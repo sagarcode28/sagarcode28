@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sagarrajgantayat9178@gmail.com**
   
-- 👨 I am passionate about Web Dev, Machine Learning & I enjoy learning new things.
+- 👨 I am passionate about Web Dev & I enjoy learning new things.
   
 
 
