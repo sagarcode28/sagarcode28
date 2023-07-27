@@ -1,14 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Sagar Raj Gantayat</h1>
-<h3 align="center">I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology..</h3>
+<h3 align="center">I’m a MERN Stack Developer & a Web Designer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I'm currently pursuing my Bachelor's from **Veer Surendra Sai University Of technology.** 
-
-- 🌱 I’m currently learning **Data Structures and Algorithms** and **Web Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
