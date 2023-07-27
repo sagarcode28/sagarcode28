@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently pursuing my Bachelor's from **Veer Surendra Sai University Of technology.** 
+- 🔭 I'm currently pursuing my Bachelor's from **Veer Surendra Sai University Of Technology.** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
