@@ -45,20 +45,3 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a><img alt="Sagar Raj Gantayat Github Stats" src="https://github-readme-stats.vercel.app/api?username=sagarcode28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a><img alt="Sagar Raj Gantayat Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarcode28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a><img alt="Sagar Raj Gantayat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sagarcode28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
