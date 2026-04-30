@@ -10,8 +10,6 @@
 
 <br/>
 
-> **Engineering Philosophy:** Building high-scale applications and AI-driven financial tools with a focus on zero-downtime architecture and statistical rigor.
-
 ### ✦ Engineering Impact
 
 * **High-Scale Architecture:** Currently engineering enterprise applications for India's Mutual Fund AMCs at KFin Technologies[cite: 1].
