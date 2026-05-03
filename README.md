@@ -34,9 +34,6 @@
 
 <div align="center">
   <a href="https://github.com/sagarcode28">
-    <img src="https://github-readme-stats.vercel.app/api?username=sagarcode28&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/sagarcode28">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarcode28&theme=transparent&hide_border=true&stroke=0000&background=00000000&ring=555555&fire=555555&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=888888&sideLabels=888888&dates=888888" alt="GitHub Streak" width="48%" />
   </a>
 </div>
